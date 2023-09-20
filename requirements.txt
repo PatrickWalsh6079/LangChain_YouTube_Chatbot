@@ -1,0 +1,7 @@
+langchain
+openai
+youtube-transcript-api
+pytube
+faiss-cpu
+sentence-transformers
+python-dotenv
